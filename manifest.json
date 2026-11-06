@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "sphinx-contrib",
+  "repo": "libreoffice",
+  "versions": [
+    {
+      "commit": "f99a23bdf4a681b0c6fc3c771ec541f4f969162e",
+      "parsed_at": "2026-11-06T08:28:20.372178+00:00",
+      "filetree": "filetree/f99a23bdf4a681b0c6fc3c771ec541f4f969162e.nq.gz",
+      "blobs": [
+        "blob/59261c17edfc2c63ae69c50a266124c29e5922c5.nq.gz",
+        "blob/910f1cba0df6884705c5b61780bfb0ed31d5244d.nq.gz",
+        "blob/0e465f76d7bd7898f118369cc5cd4d6f0e3ff84f.nq.gz",
+        "blob/2eba9160d403563d8b100534a4d950281de057e6.nq.gz",
+        "blob/81f1161b7f804e9e8b12ff35517315dd4ec83971.nq.gz",
+        "blob/68d5b226e0775eaec5b110884108423dd5cb0284.nq.gz",
+        "blob/da0e5f6db469847d0edd9071ac225113e91418dc.nq.gz",
+        "blob/b6080b701d2f2c4ffbccdb6126b32a95861a3041.nq.gz",
+        "blob/7f17f8b3c4e2f248db2a1bb7eccf22934aac4d10.nq.gz",
+        "blob/96fadd5c340a3393908c0378392e79bd5dd16f13.nq.gz",
+        "blob/b5a7dc29ef0f7f3593b1c61cfc5dfe8a17d3918c.nq.gz",
+        "blob/7bed9ea86cde52bf879dcc0c806f49c43e20e367.nq.gz",
+        "blob/cceb018c1894484d53bf9e3c590e7d4b418ccd96.nq.gz",
+        "blob/4e211d5218173b085754edc67c9f03a98b4f6499.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
