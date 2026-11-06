@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/libreoffice/commit/f99a23bdf4a681b0c6fc3c771ec541f4f969162e",
       "git:hexsha": "f99a23bdf4a681b0c6fc3c771ec541f4f969162e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
